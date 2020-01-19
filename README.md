@@ -2,8 +2,8 @@
 
 This project is https://github.com/MountCloud/spring-cloud-common-mybatis demo.
 
-##Configuration file information in config server:
-##配置中心的配置文件内容：
+## Configuration file information in config server:
+## 配置中心的配置文件内容：
 
 ```
 mybatis:
@@ -33,8 +33,8 @@ mybatis:
       package: org.mountcloud.testmysql.mapper.**
 ```
 
-##You need to see the following in this demo
-##你需要查看这个demo中的以下内容：
+## You need to see the following in this demo
+## 你需要查看这个demo中的以下内容：
 
 1：pom.xml plugins-插件列表，resources-资源列表
 
