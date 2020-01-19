@@ -2,7 +2,7 @@
 
 This project is https://github.com/MountCloud/spring-cloud-common-mybatis demo.
 
-Config server info:
+Configuration file information in config server::
 
 ```
 mybatis:
